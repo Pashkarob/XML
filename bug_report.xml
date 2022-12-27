@@ -1,1 +1,14 @@
-
+ <bug_report>
+ <ID>1</ID>
+ <Steps>a- open web site Online store.com b- from the top left, you press "the register" button  b- You enter valid data into the inputs and press the "Send" button</Steps>
+ <Summary>"The "Send" button does not work"</Summary>
+ <Actual Result>Nothing happens</Actual Result>
+ <Expected result>opening the personal account page</Expected result>
+ <Project>online store</Project>
+ <Component>Registration form</Component>
+ <Version>Vers:1.0.0 (72)</Version>
+ <Environment>MacBook Pro (16-inch, 2019), Version: 11.2.3 (20D91)</Environment>
+ <Severity>Critical</Severity>
+ <Priority>Hight (P-1)</Priority>
+ <Author>Mihail Stepashin</Author>
+ </bug_report>
